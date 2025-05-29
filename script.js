@@ -4,3 +4,4 @@ console.log("Código adicionado de um clone");
 alert("Código adicionado na alert-feature");
 alert("Adicionando 1");
 alert("Adicionando 2");
+alert("Adicionando 3");
