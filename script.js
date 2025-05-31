@@ -8,3 +8,4 @@ alert("Adicionando 3");
 alert("Adicionando 4");
 alert("Adicionando 5");
 alert("Adicionando 6");
+alert("Adicionando 7");
